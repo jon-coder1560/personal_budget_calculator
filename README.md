@@ -69,8 +69,8 @@ Enter your rent: 1200
 Enter your food cost: 400
 Enter your transportation cost: 150
 
-Total expenses: 1750
-Money left over: 1250
+Total expenses: $1750
+Money left over: $1250
 You spent 58.3% of your income.
 ```
 
