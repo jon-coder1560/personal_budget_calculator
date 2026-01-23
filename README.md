@@ -1,33 +1,68 @@
-# Personal Budget Calculator
+# Personal Budget Calculator (Java & Python)
 
-A simple Java program that helps users understand their monthly spending.  
-The program asks for monthly income and several expense amounts, then calculates:
+A beginner‑friendly budgeting program implemented in **both Java and Python**.  
+The program asks the user for their monthly income and several expense amounts, then calculates:
 
 - Total monthly expenses  
 - Money left over after expenses  
 - Percentage of income spent  
 
-This project demonstrates basic Java concepts such as:
-- User input with `Scanner`
-- Variables and data types
-- Arithmetic operations
-- Output formatting
-- The input → processing → output model
+This project demonstrates core programming concepts across two languages, including:
+
+- User input handling  
+- Variables and data types  
+- Arithmetic expressions  
+- Output formatting  
+- The input → processing → output model  
 
 ---
 
-## How It Works
+## 📂 Project Structure
+```
+personal_budget_calculator/
+│
+├── java_version/
+│   └── budget_calculator.java
+│
+└── python_version/
+└── budget_calculator.py
+```
+
+Each folder contains a standalone implementation of the same program logic.
+
+---
+
+## 🧠 Concepts Practiced
+
+### **Java Version**
+- `Scanner` input  
+- `int` and `double` variables  
+- Arithmetic operations  
+- Escape sequences  
+- Console formatting  
+
+### **Python Version**
+- `input()` function  
+- `float` and `int` types  
+- Basic math  
+- Formatted printing (f‑strings)  
+
+Both versions reinforce the same computational thinking skills.
+
+---
+
+## 🧮 How It Works
 
 1. The user enters their monthly income.  
-2. The program asks for common expenses (such as rent, food, and transportation).  
-3. It adds the expenses together.  
-4. It subtracts the total from the income to find the remaining balance.  
+2. The program asks for common expenses (rent, food, transportation, etc.).  
+3. It adds all expenses together.  
+4. It subtracts total expenses from income to find the remaining balance.  
 5. It calculates what percentage of income was spent.  
-6. It prints a summary of the results.
+6. It prints a clean summary of the results.
 
 ---
 
-## Example Output
+## 🧪 Example Output
 ```
 Enter your monthly income: 3000
 Enter your rent: 1200
@@ -36,24 +71,17 @@ Enter your transportation cost: 150
 
 Total expenses: 1750
 Money left over: 1250
-You spent 58.3% of your income.
+You spent 58.0% of your income.
 ```
+
 ---
 
-## Purpose
+## 🎯 Purpose
 
-This program was created as a beginner Java project to practice:
+This project was created to practice foundational programming skills in both Java and Python, including:
+
 - Input handling  
 - Basic math operations  
 - Organizing code into logical sections  
 - Writing clear comments and documentation  
-
----
-
-## Future Improvements (Optional Ideas)
-
-- Add more expense categories  
-- Save results to a file  
-- Create a menu system  
-- Add yearly totals or savings goals  
-
+- Understanding similarities and differences between languages  
