@@ -49,8 +49,8 @@ public class PersonalBudgetCalculator {
 		spendRatio = (totalExpenses / monthlyIncome) * 100;
 		
 		// Display the total expenses, remaining balance, and percent of income spent to the user.
-		System.out.println("Total expenses: " + totalExpenses);
-		System.out.println("Money left over: " + moneyLeft);
+		System.out.println("Total expenses: $" + totalExpenses);
+		System.out.println("Money left over: $" + moneyLeft);
 		System.out.println("You spent " + spendRatio + " of you income.");
 		
 		
