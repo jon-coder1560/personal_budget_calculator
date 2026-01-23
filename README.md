@@ -71,7 +71,7 @@ Enter your transportation cost: 150
 
 Total expenses: 1750
 Money left over: 1250
-You spent 58.0% of your income.
+You spent 58.3% of your income.
 ```
 
 ---
