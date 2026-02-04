@@ -26,7 +26,7 @@ personal_budget_calculator/
 │   └── budget_calculator.java
 │
 └── python_version/
-|   └── budget_calculator.py
+    └── budget_calculator.py
 ```
 
 Each folder contains a standalone implementation of the same program logic.
