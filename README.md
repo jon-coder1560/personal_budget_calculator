@@ -25,5 +25,3 @@ Both versions prompt the user for financial inputs, validate values, compute tot
   - **Moderate spending** (50–74%)  
   - **High spending** (75–99%)  
   - **Overspending** (100%+)  
-## 📂 Project Structure
-
